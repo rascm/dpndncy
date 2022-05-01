@@ -1,0 +1,10 @@
+{
+	"name" : "dpndncy",
+	"version" : "0.0.1",
+	"description" : "Load scripts, modules, and stylesheets asyncronusly",
+	"keywords" : ["dependencies", "async", "loader", "browser"],
+	"author" : "rascm",
+	"main" : "src/index.js",
+	"browser" : "dist/dpndncy.min.js",
+	"license" : "MIT"
+}
