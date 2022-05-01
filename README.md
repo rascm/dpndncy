@@ -3,3 +3,7 @@
 dpndncy is an asynchronous javascript and css loader.
 
 Examples:
+
+```js
+faf
+```
