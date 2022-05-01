@@ -18,4 +18,7 @@ deps.ready(function(result) {
  // will execute when dependencies are loaded
  $('body').css('color', 'green');
 });
+
+// or load javascript file, when dependencies are loaded
+deps.run('path/to/app.js');
 ```
