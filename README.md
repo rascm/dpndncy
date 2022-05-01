@@ -1,2 +1,1 @@
-# dpndncy
-Load scripts, modules, and stylesheets asyncronusly
+![dpndncy](https://github.com/rascm/dpndncy/blob/main/img/logo.png)
