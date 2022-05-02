@@ -56,6 +56,7 @@
 				return;
 
 			var current = 0;
+			executed = true;
 
 			var loadScript = function(currentIndex) {
 				if(currentIndex > files.length - 1) {
